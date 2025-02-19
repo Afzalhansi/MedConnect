@@ -43,6 +43,3 @@ MedConnect is an intuitive and user-friendly platform designed to simplify and s
 ## Contact
 For any inquiries or support, feel free to reach out via our website. 
 
----
-
-Let me know if you’d like further updates!
